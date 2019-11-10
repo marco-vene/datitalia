@@ -17,7 +17,7 @@ library(RColorBrewer)
 library(eurostat)
 
 
-######################### raw data ##############################
+######################### raw data from Istat ##############################
 #setwd("C:/Users/Marco/Google Drive/Code/R/R Projects/Progetto Istat/Shiny App")
 source("format_data.R")
 
